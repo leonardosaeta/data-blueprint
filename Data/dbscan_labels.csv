@@ -1,0 +1,67 @@
+country,Region,DBSCAN_Cluster
+Argentina,SouthAmerica,0
+Australia,Oceania,0
+Austria,WesternEurope,0
+Belarus,EasternEurope,0
+Belgium,WesternEurope,0
+Bosnia and Herzegovina,SouthernEurope,0
+Brazil,SouthAmerica,0
+Bulgaria,EasternEurope,0
+Canada,NorthernAmerica,0
+Chile,SouthAmerica,0
+"China, Hong Kong SAR",EasternAsia,-1
+China,EasternAsia,-1
+Colombia,SouthAmerica,0
+Croatia,SouthernEurope,0
+Cyprus,WesternAsia,0
+Czechia,EasternEurope,0
+Denmark,NorthernEurope,0
+Egypt,NorthernAfrica,0
+Estonia,NorthernEurope,0
+Finland,NorthernEurope,0
+France,WesternEurope,0
+Germany,WesternEurope,0
+Greece,SouthernEurope,0
+Hungary,EasternEurope,0
+India,SouthernAsia,0
+Indonesia,South-easternAsia,0
+Iran (Islamic Republic of),SouthernAsia,0
+Ireland,NorthernEurope,0
+Israel,WesternAsia,0
+Italy,SouthernEurope,0
+Japan,EasternAsia,0
+Jordan,WesternAsia,0
+Lebanon,WesternAsia,0
+Lithuania,NorthernEurope,0
+Malaysia,South-easternAsia,0
+Mexico,CentralAmerica,0
+Netherlands,WesternEurope,0
+New Zealand,Oceania,0
+Norway,NorthernEurope,0
+Pakistan,SouthernAsia,0
+Philippines,South-easternAsia,0
+Poland,EasternEurope,0
+Portugal,SouthernEurope,0
+Qatar,WesternAsia,0
+Republic of Korea,EasternAsia,0
+Romania,EasternEurope,0
+Russian Federation,EasternEurope,0
+Saudi Arabia,WesternAsia,0
+Serbia,SouthernEurope,0
+Singapore,South-easternAsia,0
+Slovakia,EasternEurope,0
+Slovenia,SouthernEurope,0
+South Africa,SouthernAfrica,0
+Spain,SouthernEurope,0
+Sri Lanka,SouthernAsia,0
+Sweden,NorthernEurope,0
+Switzerland,WesternEurope,0
+Thailand,South-easternAsia,0
+The former Yugoslav Republic of Macedonia,SouthernEurope,0
+Turkey,WesternAsia,0
+Ukraine,EasternEurope,0
+United Arab Emirates,WesternAsia,0
+United Kingdom,NorthernEurope,0
+United States of America,NorthernAmerica,-1
+Venezuela (Bolivarian Republic of),SouthAmerica,0
+Vietnam,South-easternAsia,0
